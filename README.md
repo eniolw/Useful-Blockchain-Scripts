@@ -1,5 +1,5 @@
 # What's this?
-These scripts attempt to make web scraping on [SteemSTEM](https://steemit.com/@steemstem) Distilled reports to extract the URLs and titles of every post included in those reports.
+Right now, these scripts attempt to make web scraping on [SteemSTEM](https://steemit.com/@steemstem) Distilled reports to extract the URLs and titles of every post included in those reports.
 
 
 # About
