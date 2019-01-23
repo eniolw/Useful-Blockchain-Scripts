@@ -17,7 +17,6 @@ def get_distilled_posts_urls(webpages):
     data = []
 
     for i, html in enumerate(webpages):
-        if i > 0  and i % 5 == 0: break
         # Create a soup for the webpage:
         try:  
             soup = BeautifulSoup(html.get("content"), "html.parser")
